@@ -151,7 +151,7 @@ void setup() {
   } else {
     // FORCE TIME UPDATE: This grabs your computer's time at compile.
     // **COMMENT THIS LINE OUT AFTER THE FIRST UPLOAD!**
-    rtc.adjust(DateTime(F(__DATE__), F(__TIME__)));
+    //rtc.adjust(DateTime(F(__DATE__), F(__TIME__)));
   }
 
   // Initialize Ethernet
