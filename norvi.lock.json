@@ -4,6 +4,56 @@
   "libraries": {
     "manager": [],
     "managerResolved": [],
-    "git": []
+    "git": [
+      {
+        "name": "Ethernet",
+        "url": "https://github.com/arduino-libraries/Ethernet",
+        "commit": "8f13ac98da690d8bebe5cae6e56b6bd4e5e57e46",
+        "contentSha256": "aea3e131168786a04d6e9d0985c9329544c77ff38b9f5d7e6d84ec95167c30a4",
+        "scope": "shared"
+      },
+      {
+        "name": "AsyncUDP_Ethernet",
+        "url": "https://github.com/khoih-prog/AsyncUDP_Ethernet",
+        "commit": "ff176b404ea63992c69cbff61939a9093f206019",
+        "contentSha256": "a000578848b5f561e409e456fbda225c8289ca4ac0d363a2eba5e7370f379819",
+        "scope": "shared"
+      },
+      {
+        "name": "PCA9536D",
+        "url": "https://github.com/Beirdo/Arduino-PCA9536",
+        "commit": "26461b4ab71dcbdff393581dc12c85a112208341",
+        "contentSha256": "6776ad8e6b4fdf9fea3e50d52f3a5b409cd35a080f029674eedb6feca7422f17",
+        "scope": "shared"
+      },
+      {
+        "name": "SPI",
+        "url": "https://github.com/PaulStoffregen/SPI",
+        "commit": "7c83d0726746b652af37319e70cd3932c253ecae",
+        "contentSha256": "22be5eb30e5186fdb55aebe7fa63efc12fe581f7ebbadd19ec515971cd2a4d12",
+        "scope": "shared"
+      },
+      {
+        "name": "Seeed Arduino FS",
+        "url": "https://github.com/Seeed-Studio/Seeed_Arduino_FS",
+        "commit": "2f1f609833e10038d656fdb083edc295ba1f8cfe",
+        "contentSha256": "9fc266a30a5f849b437106faed5120922e3c65cf5c0304789006265c308f154e",
+        "scope": "shared"
+      },
+      {
+        "name": "TFT_eSPI",
+        "url": "https://github.com/Bodmer/TFT_eSPI",
+        "commit": "16e37595040eac69cd628e4bffb56fc30cad6299",
+        "contentSha256": "76d850fe2c0403f9ce27b669f39260cc0c2b51a999f29d9af7bba5373f9bafbf",
+        "scope": "shared"
+      },
+      {
+        "name": "CST816S",
+        "url": "https://github.com/fbiego/CST816S",
+        "commit": "11fe1fbae1f226c328a9b08d808fb8f97d8a4c50",
+        "contentSha256": "4c0e066fc11de161f9e84029598c5fe61079f6f9c2cb67ec243f7441011bba67",
+        "scope": "shared"
+      }
+    ]
   }
 }
