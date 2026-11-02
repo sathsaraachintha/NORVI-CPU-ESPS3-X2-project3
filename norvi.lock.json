@@ -85,6 +85,15 @@
         "commit": "11fe1fbae1f226c328a9b08d808fb8f97d8a4c50",
         "contentSha256": "4c0e066fc11de161f9e84029598c5fe61079f6f9c2cb67ec243f7441011bba67",
         "scope": "shared"
+      },
+      {
+        "name": "PCA9539-master",
+        "url": "https://github.com/NORVIControllers/NORVI-X-Version-02",
+        "commit": "89bd31031d55013365495e0e631f2c4dcf75003d",
+        "contentSha256": "429508b88a0a147c6e1bff23433d5a2ef52551220656109432508a3e688cb243",
+        "subpath": "libraries/PCA9539-master",
+        "scope": "shared",
+        "format": "legacy"
       }
     ]
   }
